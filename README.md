@@ -1,4 +1,4 @@
-An Java 2d learned from RyiSnow.\n
+An Java 2d learned from RyiSnow.
 
 Youtube: https://www.youtube.com/@RyiSnow
 
